@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chorenr444
 - 👀 I’m interested in games and music.
-- 🌱 I’m currently learning ?
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ?
 - 😄 Pronouns: ?
